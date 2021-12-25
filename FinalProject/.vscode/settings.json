@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "__node_handle": "cpp",
+        "mylib.h": "c",
+        "level2_collisionmap.h": "c",
+        "font.h": "c",
+        "room2.h": "c"
+    }
+}
