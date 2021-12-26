@@ -9,3 +9,6 @@
 # TO PLAY: Please ensure that you have visual boy advance emulator.
 # https://www.emulator-zone.com/doc.php/gba/vboyadvance.html
 # Then you can open the project.gba file within the emulator
+
+
+# For Gameplay Footage: https://youtu.be/2L2jWYcz1Nk
